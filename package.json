@@ -1,0 +1,16 @@
+{
+  "name": "server-app",
+  "version": "1.0.0",
+  "description": "Program serwera",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build steps required'"
+  },
+  "author": "Rafał Wróbel",
+  "license": "MIT",
+  "dependencies": {
+    "http": "^0.0.0"
+  }
+}
+
