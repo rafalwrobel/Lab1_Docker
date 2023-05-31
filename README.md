@@ -1,6 +1,6 @@
 # **Sprawozdanie 1 - Rafał Wróbel**
 Rozwiązania zadań do sprawozdania 1  
-Link do obrazu kontenera: ![Link](https://hub.docker.com/repository/docker/rwro51/zadanie1/general)
+Link do obrazu kontenera: [link](https://hub.docker.com/repository/docker/rwro51/zadanie1/general)
 
 ## **Zadanie 1**
 Proszę napisać program serwera (dowolny język programowania), który realizować będzie następującą funkcjonalność:
